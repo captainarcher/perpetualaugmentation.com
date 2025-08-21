@@ -3,7 +3,7 @@ services:
     name: perpetualaugmentation
     runtime: static
     buildCommand: ""
-    staticPublishPath: .
+    staticPublishPath: ./
     pullRequestPreviewsEnabled: true
     headers:
       - path: /*
