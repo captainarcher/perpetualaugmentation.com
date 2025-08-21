@@ -1,0 +1,51 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# Other projects (to keep repo focused on perpetualaugmentation.com)
+aRVind/
+portfolio/
+goroamie_landing/
+beachcomber-rv/
+rv_rental_analysis/
+pdf_chatbot/
+chroma_db/
+chroma_explorer.py
+chroma_export.json
+demo_chroma_access.py
+document_processor.py
+langchain_claude_tutorial.py
+quick_chroma_access.py
+rag_chat_app.py
+requirements_rag_chat.txt
+simple_architecture.md
+architecture_diagram.md
+architecture_diagram copy.md
+build-general-rag-chat-langchain.txt
+README_RAG_CHAT.md
+CLAUDE.md
+templates/
